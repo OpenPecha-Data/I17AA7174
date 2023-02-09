@@ -1,0 +1,16 @@
+id: I17AA7174
+default_language: zh
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-09 14:52:10.016505
+last_modified: 2023-02-09 14:52:10.016609
+source_metadata:
+  title: 'PP: Vajracchedikā Prajñāpāramitā'
+  language: zh
+bases:
+  A74E:
+    base_file: A74E.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
